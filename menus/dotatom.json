@@ -1,22 +1,18 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle dotatom",
-        "command": "dotatom:toggle"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
       "submenu": [
         {
-          "label": "dotatom",
+          "label": ".atom",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "dotatom:toggle"
+              "label": "Activate Settings",
+              "command": "dotatom:activate"
+            },
+            {
+              "label": "Deactivate Settings",
+              "command": "dotatom:deactivate"
             }
           ]
         }

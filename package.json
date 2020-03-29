@@ -6,13 +6,12 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "dotatom:toggle"
+    "atom-workspace": "dotatom:deactivate",
+    "atom-workspace": "dotatom:activate"
   },
   "repository": "https://github.com/atom/dotatom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
   }
 }

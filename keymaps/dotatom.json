@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "dotatom:toggle"
+    "ctrl-alt-a": "dotatom:activate",
+    "ctrl-alt-d": "dotatom:deactivate"
   }
 }
