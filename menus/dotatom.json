@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle dotatom",
+        "command": "dotatom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "dotatom",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "dotatom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
