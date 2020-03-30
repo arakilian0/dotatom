@@ -10,7 +10,8 @@
       "dotatom:activate",
       "dotatom:deactivate",
       "dotatom:create",
-      "dotatom:edit"
+      "dotatom:edit",
+      "dotatom:help"
     ]
   },
   "repository": "https://github.com/atom/dotatom",

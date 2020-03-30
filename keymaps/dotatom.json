@@ -3,6 +3,7 @@
     "ctrl-alt-a": "dotatom:activate",
     "ctrl-alt-d": "dotatom:deactivate",
     "ctrl-alt-c": "dotatom:create",
-    "ctrl-alt-e": "dotatom:edit"
+    "ctrl-alt-e": "dotatom:edit",
+    "ctrl-alt-h": "dotatom:help"
   }
 }

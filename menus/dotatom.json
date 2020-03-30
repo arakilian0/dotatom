@@ -21,6 +21,10 @@
             {
               "label": "Deactivate Settings",
               "command": "dotatom:deactivate"
+            },
+            {
+              "label": "Help",
+              "command": "dotatom:help"
             }
           ]
         }
