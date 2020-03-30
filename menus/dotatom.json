@@ -11,12 +11,16 @@
               "command": "dotatom:activate"
             },
             {
-              "label": "Deactivate Settings",
-              "command": "dotatom:deactivate"
+              "label": "Create Settings",
+              "command": "dotatom:create"
             },
             {
               "label": "Edit Settings",
               "command": "dotatom:edit"
+            },
+            {
+              "label": "Deactivate Settings",
+              "command": "dotatom:deactivate"
             }
           ]
         }

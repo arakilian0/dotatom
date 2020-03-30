@@ -9,6 +9,7 @@
     "atom-workspace": [
       "dotatom:activate",
       "dotatom:deactivate",
+      "dotatom:create",
       "dotatom:edit"
     ]
   },

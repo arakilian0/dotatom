@@ -2,6 +2,7 @@
   "atom-workspace": {
     "ctrl-alt-a": "dotatom:activate",
     "ctrl-alt-d": "dotatom:deactivate",
+    "ctrl-alt-c": "dotatom:create",
     "ctrl-alt-e": "dotatom:edit"
   }
 }
