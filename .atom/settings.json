@@ -1,5 +1,7 @@
 {
-  "ignore": [],
+  "ignore": [
+    "package*"
+  ],
   "snippets": [],
   "server": {},
   "style": {}

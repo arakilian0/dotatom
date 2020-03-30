@@ -3,8 +3,7 @@
   "main": "./lib/dotatom",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": [
       "dotatom:activate",
@@ -21,5 +20,8 @@
   },
   "config": {
     "entry": ".atom/settings.json"
+  },
+  "dependencies": {
+    "glob": "^7.1.6"
   }
 }
