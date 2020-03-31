@@ -1,7 +1,7 @@
 {
   "name": "dotatom",
   "main": "./lib/dotatom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Atom configuration in the root directory of your project.",
   "keywords": [
     ".atom",
