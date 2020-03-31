@@ -46,7 +46,7 @@ Activate the package and enjoy the features 😸
 ###### Current Setting Options Available:
 - **ignore**
   - *Takes an Array of Strings*
-   - If your familiar with .gitignore and how it handles ignoring specific patterns, then you can get going by using that knowledge here. Just imagine that each entry into the array is a line in the ignore file. To dive deeper into specifics check out [glob patterns](https://en.wikipedia.org/wiki/Glob_(programming)).
+    - If your familiar with .gitignore and how it handles ignoring specific patterns, then you can get going by using that knowledge here. Just imagine that each entry into the array is a line in the ignore file. To dive deeper into specifics check out [glob patterns](https://en.wikipedia.org/wiki/Glob_(programming)).
 
 ## License
 MIT License
