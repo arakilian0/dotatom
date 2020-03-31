@@ -2,8 +2,14 @@
   "name": "dotatom",
   "main": "./lib/dotatom",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "Atom configuration in the root directory of your project.",
+  "keywords": [
+    ".atom",
+    "dotatom",
+    "configure",
+    "editor",
+    "settings"
+  ],
   "activationCommands": {
     "atom-workspace": [
       "dotatom:activate",
@@ -13,7 +19,7 @@
       "dotatom:help"
     ]
   },
-  "repository": "https://github.com/atom/dotatom",
+  "repository": "https://github.com/arakilian0/dotatom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
