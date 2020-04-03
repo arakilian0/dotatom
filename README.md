@@ -5,7 +5,7 @@
 ## Install
 Requirements: **git, node, atom**
 
-Run the following command to see if all requirements are met. You should be looking for 3 things, git, apm, and npm. If there all listed and have version numbers, all requirements are met.
+Run the following command to see if all requirements are met. You should be looking for 3 things: git, apm, and npm. If there all listed and have version numbers, all requirements are met.
 
 ```
 apm -v
