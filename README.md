@@ -3,11 +3,21 @@
 **Atom configuration in the root directory of your project.**
 
 ## Install
-Fire up a console and type:
+Requirements: **git, node, atom**
+
+Run the following command to see if all requirements are met. You should be looking for 3 things, git, apm, and npm. If there all listed and have version numbers, all requirements are met.
+
 ```
-apm install dotatom
+apm -v
 ```
-Or, inside Atom's settings select Install, and then search for this package.
+
+If all requirements are met continue to configure `dotatom` locally:
+```
+git clone https://github.com/arakilian0/dotatom.git
+cd dotatom
+npm install
+apm link
+```
 
 ## Usage
 ###### Step 1.
@@ -41,9 +51,9 @@ Here is an example of a valid 'settings.json' file:
 }
 ```
 ###### Step 4.
-Activate the package and enjoy the features 😸
+Activate the package from the `Packages` menu
 
-###### Current Setting Options Available:
+## Settings:
 - **ignore**
   - *Takes an Array of Strings*
     - If your familiar with .gitignore and how it handles ignoring specific patterns, then you can get going by using that knowledge here. Just imagine that each entry into the array is a line in the ignore file. To dive deeper into specifics check out [glob patterns](https://en.wikipedia.org/wiki/Glob_(programming)).
